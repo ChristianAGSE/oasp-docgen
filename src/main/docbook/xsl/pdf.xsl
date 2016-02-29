@@ -102,7 +102,7 @@ under the License.
 							</fo:block>
 
 							<fo:block font-family="Helvetica" font-size="10pt" padding="5mm" padding-before="25em">
-								<xsl:text>Copyright &#xA9; 2014-</xsl:text><xsl:value-of select="1900 + date:getYear(date:new())" /><xsl:text> the OASP team</xsl:text>
+								<xsl:value-of select="date:new()" />
 							</fo:block>
 
 							<fo:block font-family="Helvetica" font-size="8pt" padding="1mm">

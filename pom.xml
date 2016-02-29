@@ -176,38 +176,10 @@
 
   <profiles>
     <profile>
-      <id>oasp4j</id>
+      <id>TVA</id>
       <properties>
-        <oasp.repo>oasp4j</oasp.repo>
-        <oasp.wiki.page>OASP4J</oasp.wiki.page>
-      </properties>
-    </profile>
-    <profile>
-      <id>oasp4j-tutorial</id>
-      <properties>
-        <oasp.repo>oasp4j</oasp.repo>
-        <oasp.wiki.page>OASP4J-Tutorial</oasp.wiki.page>
-      </properties>
-    </profile>
-    <profile>
-      <id>oasp4j-ide</id>
-      <properties>
-        <oasp.repo>oasp4j-ide</oasp.repo>
-        <oasp.wiki.page>OASP4J-IDE</oasp.wiki.page>
-      </properties>
-    </profile>
-    <profile>
-      <id>oasp4js</id>
-      <properties>
-        <oasp.repo>oasp4js</oasp.repo>
-        <oasp.wiki.page>OASP4JS</oasp.wiki.page>
-      </properties>
-    </profile>
-    <profile>
-      <id>oasp4js-tutorial</id>
-      <properties>
-        <oasp.repo>oasp4js</oasp.repo>
-        <oasp.wiki.page>OASP4JS-Tutorial</oasp.wiki.page>
+        <oasp.repo>TVA</oasp.repo>
+        <oasp.wiki.page>DOCROOT</oasp.wiki.page>
       </properties>
     </profile>
   </profiles>
